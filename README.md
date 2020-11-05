@@ -1,4 +1,5 @@
 # Heart Disease Prediction System Using Machine Learning
+<p align=center><img src="https://img.shields.io/badge/Last%20Commit-November-brightgreen" hspace=20> <img src="https://img.shields.io/badge/Project%20Status-Open-brightgreen"></p>
 <p>In this notebook, we used various Python-based machine learning and data science libraries to build a machine learning model capable of classifying whether someone has heart disease or not depending on their medical attributes.</p><br>
 <p>The clinical parameters about each patient is given in the dataset, we are trying to predict whether they have heart disease or not.</p>
 
@@ -23,4 +24,4 @@
 7. Evaluating The Tuned Machine Learning Classifier
     - Evaluation Metrics Calculations Without Cross-validation :white_check_mark:
     - Evaluation Metrics Calculations Using Cross Validation :white_check_mark:
-8. Feature Importance
+8. Feature Importance :white_check_mark:
