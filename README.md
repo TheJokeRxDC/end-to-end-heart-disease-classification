@@ -10,7 +10,7 @@
 4. Exploratory Data Analysis (EDA)
     - Males vs Females :white_check_mark:
     - Heart Disease Frequency According To Sex :white_check_mark:
-    - Age vs Max Heart Rate for Heart Disease :white_check_mark:
+    - Age vs Max Heart Rate :white_check_mark:
     - Heart Disease Frequency As Per Chest Pain Type :white_check_mark:
     - Correlation Matrix :white_check_mark:
 5. Machine Learning Model Experimentaion
