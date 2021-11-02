@@ -1,5 +1,18 @@
 # Heart Disease Prediction System Using Machine Learning
-<p align=center><img src="https://img.shields.io/badge/Last%20Commit-November-brightgreen" hspace=20> <img src="https://img.shields.io/badge/Project%20Status-Open-brightgreen"></p>
+<p align="center">
+  <img src="http://ForTheBadge.com/images/badges/made-with-python.svg">
+  <img src="http://ForTheBadge.com/images/badges/built-by-developers.svg">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Last%20Commit-November 2020-brightgreen"> 
+  <img src="https://img.shields.io/badge/Project%20Status-Open-brightgreen">
+</p>
+
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/23554465/139940479-71d39238-2182-4654-92b8-00f99d1e3220.png" height="500" width="800" align="center">
+</p>
+
 <p>In this notebook, we used various Python-based machine learning and data science libraries to build a machine learning model capable of classifying whether someone has heart disease or not depending on their medical attributes.</p>
 <p>The clinical parameters of each patient is given in the dataset, we are trying to predict whether the patient heart disease or not.</p>
 
